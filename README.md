@@ -7,7 +7,8 @@ Katedra Informatyki Stosowanej i Modelowania Matematycznego
 mgr inż. Adam Zalewski
 
 adam.zalewski@matman.uwm.edu.pl
-D1/17
+
+Mój pokój: D1/17
 
 Konsultacje: online po umówieniu się
 
