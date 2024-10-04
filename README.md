@@ -13,10 +13,15 @@ Mój pokój: D1/17
 Konsultacje: online po umówieniu się
 
 Oceny z kolokwiów:
+
 60% - 64% to 3
+
 65% - 74% to 3,5
-75% - 84% to 4
+
+75% - 84% to 
+
 85% - 94% to 4,5
+
 95% - 100% to 5
 
 Ocena końcowa to średnia arytmetyczna ocen z kolokwiów + punkty za zadania dodatkowe
