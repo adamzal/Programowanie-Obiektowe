@@ -25,15 +25,21 @@ Oceny z kolokwiów:
 95% - 100% to 5
 
 Ocena końcowa to średnia arytmetyczna ocen z kolokwiów + punkty za zadania dodatkowe
+
 Zadania dodatkowe +1 punkt na kolokwium
+
 Zadania dodatkowe wykonuje się w czasie trwania zajęć
+
 Zestawy zadan do wykonania sa obowiazkowe
+
 Rozwiazania wstawiamy na githuba
+
 Oba kolokwia trzeba zaliczyc na ocene min 3
+
 Obowiązują max 2 poprawy na każde kolokwium
 
 Maila z linkiem do repo wysyła jedna osoba z grupy tzw. starosta grupy
-Można mieć max 2 nieobecnosci nieusprawiedliwione na semestr 
-Kolokwia wykonuje się na komputerach w sali
 
-adamzal
+Można mieć max 2 nieobecnosci nieusprawiedliwione na semestr 
+
+Kolokwia wykonuje się na komputerach w sali
